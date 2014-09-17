@@ -8,9 +8,8 @@ the second come from GitHub.
 with all of the githubers,it would be more.
 
 
-![](https://github.com/sunalong/sources/blob/master/ios_progressbar.png)
 
-![](https://github.com/sunalong/sources/blob/master/cat.png)
+![](https://github.com/sunalong/sources/blob/master/progressBars.jpg)
 ##the line
 
 TODO...
